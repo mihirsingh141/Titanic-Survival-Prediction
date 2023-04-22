@@ -20,7 +20,7 @@ Age: This can also be fractional
 
 SibSp: The number of siblings and spouse of the passenger
 
-Parch: Indicates whether the passenger's parents or children were aboard as well
+Parch: Indicates whether the passenger's parents or children were aboard as well and how many.
 
 Ticket: Passenger's ticket number
 
